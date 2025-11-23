@@ -1,6 +1,6 @@
 # Operating Systems and Computer System Architecture
 
-> "All problems in computer science can be solved by another level of indirection."
+> All problems in computer science can be solved by another level of indirection.\
 > — David Wheeler
 
 ## Operating Systems
