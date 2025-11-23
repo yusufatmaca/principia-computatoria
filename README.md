@@ -21,7 +21,7 @@ This is not a bookmark dump. It is a structured, evolving handbook.
 ## 🧭 Table of Contents
 - [C/C++ and Memory Models](docs/cpp.md)
 - [High-Performance Computing, Parallel Programming, CUDA, etc.](docs/hpc.md)
-- Data Structures and Algorithms
+- [Data Structures and Algorithms](docs/dsa.md)
 - Operating Systems and Computer System Architecture
 - Databases & Query Optimization
 - Distributed & Real-Time Systems
