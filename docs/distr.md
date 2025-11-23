@@ -15,3 +15,4 @@
 * [File System Research Papers](https://github.com/hegongshan/File-System-Paper)
 * [Algorithms for Scaling Systems](https://x.com/asmah2107/status/1968726314132849108)
 * [Some White Papers](https://x.com/systemdesignone/status/1790719334077100541)
+* [Some Popular Blog Posts](https://x.com/ryanlpeterman/status/1755031808557891996)
