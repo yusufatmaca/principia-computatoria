@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="assets/logo.svg" width="600">
+  <img src="https://raw.githubusercontent.com/yusufatmaca/principia-computatoria/main/assets/logo.svg" width="600">
 </p>
 
-# Principia Computatoria
 > *"To understand the machine is to understand the mind of the maker."*
 
 This repository serves as a personal knowledge base and a persistent digital bookshelf. It was created to archive valuable resources—articles, university courses, white papers, and manuals—that I have encountered during my career as a Computer Scientist.
