@@ -4,9 +4,9 @@
 > — Bjarne Stroustrup
 
 ## References, Manuals, Selected Posts
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices)
 * [Pitchfork Layout](https://joholl.github.io/pitchfork-website/)
-* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [Awesome C++](https://awesomecpp.com/)
 * [Beej's Guide](https://beej.us/guide/)
 * [Design and Evolution of `constexpr`](https://pvs-studio.com/en/blog/posts/cpp/0909/)
