@@ -7,7 +7,7 @@
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices)
 * [Pitchfork Layout](https://joholl.github.io/pitchfork-website/)
-* [Awesome C++](https://awesomecpp.com/)
+* [Awesome C++: A collection of resources on modern C++](https://awesomecpp.com/)
 * [Beej's Guide](https://beej.us/guide/)
 * [Design and Evolution of `constexpr`](https://pvs-studio.com/en/blog/posts/cpp/0909/)
 
@@ -23,12 +23,9 @@
 ## Practices
 * [CMU 15-445 Bootcamp](https://github.com/cmu-db/15445-bootcamp)
 * [CS106L Assignments](https://github.com/cs106l/cs106l-assignments)
+* [100 Collection of C++ Exercises Suitable for Beginners](https://github.com/AlajeBash/2023_Summer_Cpp_Challenge)
+* [Code Examples for Tutoring Modern C++](https://github.com/banach-space/cpp-tutor)
+* [Six core computer science projects](https://x.com/arpit_bhayani/status/1859586046750818495)
 * [Imperial College: Unit Testing in C++](https://imperialcollegelondon.github.io/unit_testing_Cpp/index.html)
 * [Modern C++ Tutorial](https://github.com/changkun/modern-cpp-tutorial)
 * [CodeCrafters (Build your own X)](https://codecrafters.io/)
-
-
-## Modern C++ Concepts
-* `std::visit` / `std::variant`
-* `std::decay`
-* `static_assert()`
