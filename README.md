@@ -39,21 +39,9 @@ principia-computatoria/
 ├── README.md
 ├── docs/
 │   ├── c-cpp.md
-│   ├── parallelism-hpc.md
-│   ├── algorithms.md
-│   ├── operating-systems.md
-│   ├── databases.md
-│   ├── distributed-systems.md
-│   ├── linux-devops.md
-│   ├── compilers-parsing.md
-│   ├── graphics.md
-│   ├── cs-foundations.md
-│   ├── math-ml.md
-│   ├── emacs.md
-│   └── environment.md
-└── assets/
-    ├── logo.svg
-    └── banners/
+│   ├── hpc.md
+│   ├── ...
+│   └── ...
 ```
 Each topic lives in its own docs/*.md page.
 
